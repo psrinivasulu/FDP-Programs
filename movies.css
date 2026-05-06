@@ -1,0 +1,12 @@
+.movies{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
+.movie
+{
+    width:200px;
+    height: 300px;
+    margin: 20px;
+    border: 2px solid black;
+}
